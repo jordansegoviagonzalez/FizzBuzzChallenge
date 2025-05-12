@@ -30,7 +30,7 @@ public string FizzBuzz(int number)
     //Cheks if the number is divisible by 3.
     {
 
-        answer = "Fizz"
+        answer += "Fizz";
         //Asssigns "Fizz" to "aswer" if true.
 
     }
